@@ -1,4 +1,4 @@
---- 2019 Qiskit Camp ---
+--- 2019 Qiskit Camp (Group 23) ---
 
 This project contains a different optimization method for UCCSD calculation.
 
